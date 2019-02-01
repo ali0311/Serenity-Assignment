@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.getrequest.junit.Assignment1_Test" skipped="0" tests="1" time="5.79" timestamp="2019-01-25 05:25:21"><testcase classname="com.getrequest.junit.Assignment1_Test" name="REST web-service to search country by 2 character alphanumeric ISO code"/></testsuite>
